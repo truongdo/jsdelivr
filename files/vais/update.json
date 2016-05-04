@@ -1,0 +1,9 @@
+
+{
+  "packageManager": "github",
+  "name": "vais.tts",
+  "repo": "truongdo/vais-js",
+  "files": {
+    "include": ["vitts.min.js"]
+  }
+}
